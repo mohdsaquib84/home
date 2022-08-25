@@ -61,7 +61,8 @@ import product from '../assets/api/Api'
         // border:'1px solid red',
         display:'flex',
         justifyContent:'space-around',
-        paddingTop:'10px'
+        paddingTop:'10px',
+        marginBottom:theme.spacing(1)
         
     },
     stock:{
